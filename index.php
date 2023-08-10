@@ -10,7 +10,7 @@
     <a href="login/login.php">voltar</a>
     <div class="container"> 
         <h1>Login</h1> 
-    <form action="http://localhost/form-php/login/login.php" method="POST">
+    <form action="/login/testLogin.php" method="POST">
         <input type="text" name="email" placeholder="Email"> <br>
         <input type="password" name="senha" placeholder="Digite sua senha">
         <input class="btn" type="submit" name="submit" value="enviar">
