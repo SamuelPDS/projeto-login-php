@@ -10,8 +10,8 @@
     
 <h4>Entre com seu usuário ou cadastre-se</h4>
 <div class="box">
-    <button><a href="../index.php">Login</a></button>
-    <button><a href="../formulario/form.php">Cadastre-se </a></button>
+    <button><a href="index.php">Login</a></button>
+    <button><a href="form.php">Cadastre-se </a></button>
 </div>
 </body>
 </html>

@@ -51,7 +51,7 @@ if(isset($_POST['submit'])){
 </head>
 
 <body>
-<a href="../login/login.php">voltar</a>
+<a href="login.php">voltar</a>
     <div class="container">
         <form action="form.php" method="POST">
             <fieldset>

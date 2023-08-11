@@ -7,15 +7,14 @@
     <title>Tela de Login</title>
 </head>
 <body>
-    <a href="login/login.php">voltar</a>
+    <a href="login.php">voltar</a>
     <div class="container"> 
         <h1>Login</h1> 
-    <form action="/login/testLogin.php" method="POST">
-        <input type="text" name="email" placeholder="Email"> <br>
-        <input type="password" name="senha" placeholder="Digite sua senha">
-        <input class="btn" type="submit" name="submit" value="enviar">
+        <form action="testLogin.php" method="POST">
+            <input type="text" name="email" placeholder="Email"> <br>
+            <input type="password" name="senha" placeholder="Digite sua senha">
+            <input class="btn" type="submit" name="submit" value="Enviar">
     </form>
     </div>
-    <script src="script.js"></script>
 </body>
 </html>
